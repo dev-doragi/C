@@ -1,0 +1,2 @@
+C:\Users\user\git\C\Saprse Matrix\Debug\Saprse Matrix.exe
+C:\Users\user\git\C\Saprse Matrix\Debug\Saprse Matrix.pdb
