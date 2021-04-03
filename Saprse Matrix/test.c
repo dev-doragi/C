@@ -17,7 +17,7 @@ int sparse[8][8] = { {0,0,6,0,0,0,10, 0},
 int main(void)
 {
 	int i = 0, j = 0, k = 0;
-	int k1 = 8;
+	int k1;
 
 	head();
 	k1 = process(i, j, k);
@@ -63,7 +63,7 @@ void write(int k2)
 	s_value[0][2] = k2;
 
 	printf("\n\n\n\t\t\t\t 0col  1col  2col\n");
-	for (i = 0; i <= 10; i++)
+	for (i = 0; i <= k2; i++)
 	{
 		printf("\t\t\t  %3drow  %3d   %3d   %3d \n", i, s_value[i][0], s_value[i][1], s_value[i][2]);
 	}
