@@ -1,0 +1,2 @@
+C:\Users\user\git\C\Binary_Tree\Debug\Binary_Tree.exe
+C:\Users\user\git\C\Binary_Tree\Debug\Binary_Tree.pdb

@@ -1,0 +1,2 @@
+C:\Users\user\git\C\Cpp_project\Debug\Cpp_project.exe
+C:\Users\user\git\C\Cpp_project\Debug\Cpp_project.pdb
