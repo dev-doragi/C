@@ -1,2 +1,4 @@
 C:\Users\user\git\C\alloc_ex\Debug\alloc_ex.exe
 C:\Users\user\git\C\alloc_ex\Debug\alloc_ex.pdb
+C:\Users\최재인\git\C\alloc_ex\Debug\alloc_ex.exe
+C:\Users\최재인\git\C\alloc_ex\Debug\alloc_ex.pdb

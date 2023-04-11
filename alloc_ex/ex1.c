@@ -21,8 +21,13 @@
 //
 //	if (p != NULL)
 //	{
-//		strcpy(p->nam, "ÃÖÀçÀÎ");
-//		strcpy(p->tel, "01099486558");
+//		char* nam1 = (char*)malloc(10);
+//		char* tel1 = (char*)malloc(10);
+//		scanf("%10s %10s", nam1, tel1);
+//
+//		p->nam = nam1;
+//		p->tel = tel1;
+//		
 //	}
 //
 //	return p;

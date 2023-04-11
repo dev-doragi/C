@@ -1,2 +1,4 @@
-﻿  ex2.c
-  alloc_ex.vcxproj -> C:\Users\user\git\C\alloc_ex\Debug\alloc_ex.exe
+﻿  ex1_answer.c
+C:\Users\최재인\git\C\alloc_ex\ex1_answer.c(15,29): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\최재인\git\C\alloc_ex\ex1_answer.c(38,6): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  alloc_ex.vcxproj -> C:\Users\최재인\git\C\alloc_ex\Debug\alloc_ex.exe

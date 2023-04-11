@@ -1,0 +1,3 @@
+﻿  test.c
+C:\Users\최재인\git\C\230411\test.c(8,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  230411.vcxproj -> C:\Users\최재인\git\C\230411\Debug\230411.exe
